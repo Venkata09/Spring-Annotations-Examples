@@ -1,5 +1,6 @@
 # Spring annotation and examples
 
+*********************************************************************************************
 
 #### Spring ThreadPoolTaskScheduler vs ThreadPoolTaskExecutor
 
@@ -7,5 +8,5 @@
 **ThreadPoolTaskScheduler** is a specialized class for scheduling tasks.
 
 
-
+*********************************************************************************************
 
